@@ -1,0 +1,2686 @@
+[0;32m============================================================[0m
+[0;32m         Research Pipeline - JUnit Test Coverage[0m
+[0;32m============================================================[0m
+Pipeline started at: Sat Mar  7 18:00:23 UTC 2026
+Log file: /app/logs/pipeline_20260307_180023.log
+
+[1;33mStarting metrics pipeline...[0m
+----------------------------------------
+======================================================================
+METRICS PIPELINE - JUnit Generation + Branch Coverage Analysis
+======================================================================
+Input file: CycloSampled.csv
+Output files: coverage_results.csv, coverage_summary.csv
+Found 150 methods to process.
+Will generate 150 tests and run 150 coverage analyses.
+
+Found Maven: /usr/bin/mvn
+✓ Project structure created at test_project_metrics
+
+============================================================
+[1/150] Processing: FetchFloat
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 104 seconds (1 min 44 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: FetchFloat_BranchCov
+  ✓ Test passed: FetchFloat_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[2/150] Processing: IsDigit
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 158 seconds (2 min 38 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsDigit_BranchCov
+  ✓ Test passed: IsDigit_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[3/150] Processing: CharsToQuad
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 161 seconds (2 min 41 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: CharsToQuad_BranchCov
+  ✓ Test passed: CharsToQuad_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[4/150] Processing: ComputeListCapacity
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 121 seconds (2 min 1 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ComputeListCapacity_BranchCov
+  ✓ Test passed: ComputeListCapacity_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[5/150] Processing: Not
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 89 seconds (1 min 29 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Not_BranchCov
+  ✓ Test passed: Not_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[6/150] Processing: ComputeSampleSize
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 180 seconds (3 min 0 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ComputeSampleSize_BranchCov
+  ✓ Test passed: ComputeSampleSize_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[7/150] Processing: Intersects
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 71 seconds (1 min 11 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Intersects_BranchCov
+  ✓ Test passed: Intersects_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[8/150] Processing: GetEffectiveScatterDistance
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 184 seconds (3 min 4 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetEffectiveScatterDistance_BranchCov
+  ✓ Test passed: GetEffectiveScatterDistance_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[9/150] Processing: Time2frameIndex
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 146 seconds (2 min 26 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Time2frameIndex_BranchCov
+  ✓ Test passed: Time2frameIndex_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[10/150] Processing: GetMonthTemp
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 61 seconds (1 min 1 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetMonthTemp_BranchCov
+  ✓ Test passed: GetMonthTemp_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[11/150] Processing: IsInBox
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 74 seconds (1 min 14 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsInBox_BranchCov
+  ✓ Test passed: IsInBox_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[12/150] Processing: GetDays
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 84 seconds (1 min 24 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetDays_BranchCov
+  ✓ Test passed: GetDays_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[13/150] Processing: AsDouble
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 57 seconds (0 min 57 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: AsDouble_BranchCov
+  ✓ Test passed: AsDouble_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[14/150] Processing: DecreaseBattleStat
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 101 seconds (1 min 41 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: DecreaseBattleStat_BranchCov
+  ✓ Test passed: DecreaseBattleStat_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[15/150] Processing: Calculate
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 132 seconds (2 min 12 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Calculate_BranchCov
+  ✓ Test passed: Calculate_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[16/150] Processing: FahrenheitToCelsius
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 141 seconds (2 min 21 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: FahrenheitToCelsius_BranchCov
+  ✓ Test passed: FahrenheitToCelsius_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[17/150] Processing: Decode
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 84 seconds (1 min 24 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Decode_BranchCov
+  ✓ Test passed: Decode_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[18/150] Processing: DirChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 107 seconds (1 min 47 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: DirChar_BranchCov
+  ✓ Test passed: DirChar_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[19/150] Processing: Decode64
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 166 seconds (2 min 46 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Decode64_BranchCov
+  ✓ Test passed: Decode64_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[20/150] Processing: IsPrintableStringChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 107 seconds (1 min 47 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsPrintableStringChar_BranchCov
+  ✓ Test passed: IsPrintableStringChar_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[21/150] Processing: FlipLights
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 185 seconds (3 min 5 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: FlipLights_BranchCov
+  ✓ Test passed: FlipLights_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[22/150] Processing: CountUpNumber
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 91 seconds (1 min 31 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: CountUpNumber_BranchCov
+  ✓ Test passed: CountUpNumber_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[23/150] Processing: GetInverseIndex
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 133 seconds (2 min 13 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetInverseIndex_BranchCov
+  ✓ Test passed: GetInverseIndex_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[24/150] Processing: Direction
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 96 seconds (1 min 36 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Direction_BranchCov
+  ✓ Test passed: Direction_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[25/150] Processing: IsIndexQueryEscapeChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 179 seconds (2 min 59 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsIndexQueryEscapeChar_BranchCov
+  ✓ Test passed: IsIndexQueryEscapeChar_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[26/150] Processing: ShouldQuoteIndexQueryForChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 182 seconds (3 min 2 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ShouldQuoteIndexQueryForChar_BranchCov
+  ✓ Test passed: ShouldQuoteIndexQueryForChar_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[27/150] Processing: GetDecimalPlaces
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 122 seconds (2 min 2 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetDecimalPlaces_BranchCov
+  ✓ Test passed: GetDecimalPlaces_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[28/150] Processing: IsSeparator
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 199 seconds (3 min 19 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsSeparator_BranchCov
+  ✓ Test passed: IsSeparator_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[29/150] Processing: Nibble2Int
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 64 seconds (1 min 4 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Nibble2Int_BranchCov
+  ✓ Test passed: Nibble2Int_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[30/150] Processing: GetZoneNumber
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 151 seconds (2 min 31 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetZoneNumber_BranchCov
+  ✓ Test passed: GetZoneNumber_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[31/150] Processing: IsHexDigit
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 77 seconds (1 min 17 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsHexDigit_BranchCov
+  ✓ Test passed: IsHexDigit_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[32/150] Processing: IsDigitChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 95 seconds (1 min 35 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsDigitChar_BranchCov
+  ✓ Test passed: IsDigitChar_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[33/150] Processing: Nibble2int
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 105 seconds (1 min 45 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Nibble2int_BranchCov
+  ✓ Test passed: Nibble2int_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[34/150] Processing: IsVariable
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 99 seconds (1 min 39 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsVariable_BranchCov
+  ✓ Test passed: IsVariable_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[35/150] Processing: Collides
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 168 seconds (2 min 48 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Collides_BranchCov
+  ✓ Test passed: Collides_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[36/150] Processing: GetHexDigitValue
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 200 seconds (3 min 20 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetHexDigitValue_BranchCov
+  ✓ Test passed: GetHexDigitValue_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[37/150] Processing: Direction
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 91 seconds (1 min 31 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Direction_BranchCov
+  ✓ Test passed: Direction_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[38/150] Processing: GetOrbValue
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 109 seconds (1 min 49 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetOrbValue_BranchCov
+  ✓ Test passed: GetOrbValue_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[39/150] Processing: RelativeCCW
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 159 seconds (2 min 39 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: RelativeCCW_BranchCov
+  ✓ Test passed: RelativeCCW_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[40/150] Processing: GetNewChipTypeUp
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 112 seconds (1 min 52 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetNewChipTypeUp_BranchCov
+  ✓ Test passed: GetNewChipTypeUp_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[41/150] Processing: GetJong
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 99 seconds (1 min 39 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetJong_BranchCov
+  ✓ Test passed: GetJong_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[42/150] Processing: IsURICharacter
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 108 seconds (1 min 48 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsURICharacter_BranchCov
+  ✓ Test passed: IsURICharacter_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[43/150] Processing: GetSymbolIndex
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 136 seconds (2 min 16 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetSymbolIndex_BranchCov
+  ✓ Test passed: GetSymbolIndex_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[44/150] Processing: FallsOff
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 56 seconds (0 min 56 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: FallsOff_BranchCov
+  ✓ Test passed: FallsOff_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[45/150] Processing: IsURICharacter
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 180 seconds (3 min 0 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsURICharacter_BranchCov
+  ✓ Test passed: IsURICharacter_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[46/150] Processing: ArcadeChoice
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 169 seconds (2 min 49 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ArcadeChoice_BranchCov
+  ✓ Test passed: ArcadeChoice_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[47/150] Processing: Js_pow
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 123 seconds (2 min 3 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Js_pow_BranchCov
+  ✓ Test passed: Js_pow_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[48/150] Processing: BitLen
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 108 seconds (1 min 48 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: BitLen_BranchCov
+  ✓ Test passed: BitLen_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[49/150] Processing: Js_pow
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 101 seconds (1 min 41 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Js_pow_BranchCov
+  ✓ Test passed: Js_pow_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[50/150] Processing: GetBlockTextureFromSideAndMetadata
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 82 seconds (1 min 22 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetBlockTextureFromSideAndMetadata_BranchCov
+  ✓ Test passed: GetBlockTextureFromSideAndMetadata_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[51/150] Processing: IsUCSChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 73 seconds (1 min 13 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsUCSChar_BranchCov
+  ✓ Test passed: IsUCSChar_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[52/150] Processing: IsXMLDigit
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 188 seconds (3 min 8 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsXMLDigit_BranchCov
+  ✓ Test passed: IsXMLDigit_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[53/150] Processing: Get2Fold
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 55 seconds (0 min 55 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Get2Fold_BranchCov
+  ✓ Test passed: Get2Fold_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[54/150] Processing: MostSignificantBit
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 155 seconds (2 min 35 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: MostSignificantBit_BranchCov
+  ✓ Test passed: MostSignificantBit_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[55/150] Processing: Log2
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 187 seconds (3 min 7 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Log2_BranchCov
+  ✓ Test passed: Log2_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[56/150] Processing: IsEscapable
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 186 seconds (3 min 6 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsEscapable_BranchCov
+  ✓ Test passed: IsEscapable_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[57/150] Processing: CharMatch
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 113 seconds (1 min 53 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: CharMatch_BranchCov
+  ✓ Test passed: CharMatch_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[58/150] Processing: IsXMLDigit
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 184 seconds (3 min 4 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsXMLDigit_BranchCov
+  ✓ Test passed: IsXMLDigit_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[59/150] Processing: Uw1
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 68 seconds (1 min 8 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Uw1_BranchCov
+  ✓ Test passed: Uw1_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[60/150] Processing: IsAlpha
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 195 seconds (3 min 15 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsAlpha_BranchCov
+  ✓ Test passed: IsAlpha_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[61/150] Processing: IntersectLineSegments
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 159 seconds (2 min 39 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IntersectLineSegments_BranchCov
+  ✓ Test passed: IntersectLineSegments_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[62/150] Processing: GetChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 121 seconds (2 min 1 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetChar_BranchCov
+  ✓ Test passed: GetChar_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[63/150] Processing: LinesIntersect
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 125 seconds (2 min 5 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: LinesIntersect_BranchCov
+  ✓ Test passed: LinesIntersect_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[64/150] Processing: IsTriangle
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 136 seconds (2 min 16 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsTriangle_BranchCov
+  ✓ Test passed: IsTriangle_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[65/150] Processing: ComplementChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 64 seconds (1 min 4 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ComplementChar_BranchCov
+  ✓ Test passed: ComplementChar_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[66/150] Processing: TransChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 119 seconds (1 min 59 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: TransChar_BranchCov
+  ✓ Test passed: TransChar_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[67/150] Processing: IsDigit
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 165 seconds (2 min 45 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsDigit_BranchCov
+  ✓ Test passed: IsDigit_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[68/150] Processing: SignOfDet2x2
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 164 seconds (2 min 44 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: SignOfDet2x2_BranchCov
+  ✓ Test passed: SignOfDet2x2_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[69/150] Processing: GetLetterDesignator
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 134 seconds (2 min 14 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetLetterDesignator_BranchCov
+  ✓ Test passed: GetLetterDesignator_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[70/150] Processing: IsString
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 167 seconds (2 min 47 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsString_BranchCov
+  ✓ Test passed: IsString_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[71/150] Processing: GetUTMLatitudeZoneLetter
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 96 seconds (1 min 36 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetUTMLatitudeZoneLetter_BranchCov
+  ✓ Test passed: GetUTMLatitudeZoneLetter_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[72/150] Processing: SignOfDet2x2
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 190 seconds (3 min 10 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: SignOfDet2x2_BranchCov
+  ✓ Test passed: SignOfDet2x2_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[73/150] Processing: GetSymbolFontChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 68 seconds (1 min 8 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetSymbolFontChar_BranchCov
+  ✓ Test passed: GetSymbolFontChar_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[74/150] Processing: GetCorrespondingSymbol
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 178 seconds (2 min 58 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetCorrespondingSymbol_BranchCov
+  ✓ Test passed: GetCorrespondingSymbol_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[75/150] Processing: IsDigit
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 118 seconds (1 min 58 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsDigit_BranchCov
+  ✓ Test passed: IsDigit_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[76/150] Processing: Tw3
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 70 seconds (1 min 10 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Tw3_BranchCov
+  ✓ Test passed: Tw3_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[77/150] Processing: IsObservedButUnknown
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 78 seconds (1 min 18 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsObservedButUnknown_BranchCov
+  ✓ Test passed: IsObservedButUnknown_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[78/150] Processing: Uw6
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 133 seconds (2 min 13 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Uw6_BranchCov
+  ✓ Test passed: Uw6_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[79/150] Processing: IsObservedButUnknown
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 115 seconds (1 min 55 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsObservedButUnknown_BranchCov
+  ✓ Test passed: IsObservedButUnknown_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[80/150] Processing: ArrowPower
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 74 seconds (1 min 14 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ArrowPower_BranchCov
+  ✓ Test passed: ArrowPower_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[81/150] Processing: Tw4
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 97 seconds (1 min 37 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Tw4_BranchCov
+  ✓ Test passed: Tw4_BranchCov
+    ✓ Branch Coverage test passed
+
+============================================================
+[82/150] Processing: IsSameAsFullWT
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 67 seconds (1 min 7 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsSameAsFullWT_BranchCov
+  ✗ Test failed: IsSameAsFullWT_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[83/150] Processing: Ntz3
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 97 seconds (1 min 37 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Ntz3_BranchCov
+  ✗ Test failed: Ntz3_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[84/150] Processing: MapOsId
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 106 seconds (1 min 46 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: MapOsId_BranchCov
+  ✗ Test failed: MapOsId_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[85/150] Processing: IsDependentBlock
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 150 seconds (2 min 30 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsDependentBlock_BranchCov
+  ✗ Test failed: IsDependentBlock_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[86/150] Processing: FromHex
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 198 seconds (3 min 18 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: FromHex_BranchCov
+  ✗ Test failed: FromHex_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[87/150] Processing: TestAabSphere
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 66 seconds (1 min 6 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: TestAabSphere_BranchCov
+  ✗ Test failed: TestAabSphere_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[88/150] Processing: GetNext
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 121 seconds (2 min 1 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetNext_BranchCov
+  ✗ Test failed: GetNext_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[89/150] Processing: IsWhitespace
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 95 seconds (1 min 35 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsWhitespace_BranchCov
+  ✗ Test failed: IsWhitespace_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[90/150] Processing: Ray_intersect_x
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 85 seconds (1 min 25 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Ray_intersect_x_BranchCov
+  ✗ Test failed: Ray_intersect_x_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[91/150] Processing: IsIdeographic
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 184 seconds (3 min 4 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsIdeographic_BranchCov
+  ✗ Test failed: IsIdeographic_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[92/150] Processing: IsPerfectSquare
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 88 seconds (1 min 28 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsPerfectSquare_BranchCov
+  ✗ Test failed: IsPerfectSquare_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[93/150] Processing: IsLabelEndChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 176 seconds (2 min 56 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsLabelEndChar_BranchCov
+  ✗ Test failed: IsLabelEndChar_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[94/150] Processing: GetCorrespondingSymbol
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 153 seconds (2 min 33 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetCorrespondingSymbol_BranchCov
+  ✗ Test failed: GetCorrespondingSymbol_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[95/150] Processing: Contains
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 110 seconds (1 min 50 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Contains_BranchCov
+  ✗ Test failed: Contains_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[96/150] Processing: A
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 107 seconds (1 min 47 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: A_BranchCov
+  ✗ Test failed: A_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[97/150] Processing: AcceptsSigns
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 68 seconds (1 min 8 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: AcceptsSigns_BranchCov
+  ✗ Test failed: AcceptsSigns_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[98/150] Processing: IsSpecial
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 134 seconds (2 min 14 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsSpecial_BranchCov
+  ✗ Test failed: IsSpecial_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[99/150] Processing: IsLetterOrDigit
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 108 seconds (1 min 48 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsLetterOrDigit_BranchCov
+  ✗ Test failed: IsLetterOrDigit_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[100/150] Processing: Decode
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 109 seconds (1 min 49 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Decode_BranchCov
+  ✗ Test failed: Decode_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[101/150] Processing: Tw2
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 108 seconds (1 min 48 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Tw2_BranchCov
+  ✗ Test failed: Tw2_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[102/150] Processing: FromChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 125 seconds (2 min 5 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: FromChar_BranchCov
+  ✗ Test failed: FromChar_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[103/150] Processing: ToChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 50 seconds (0 min 50 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ToChar_BranchCov
+  ✗ Test failed: ToChar_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[104/150] Processing: DecodeByte
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 82 seconds (1 min 22 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: DecodeByte_BranchCov
+  ✗ Test failed: DecodeByte_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[105/150] Processing: JjStopStringLiteralDfa_5
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 153 seconds (2 min 33 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: JjStopStringLiteralDfa_5_BranchCov
+  ✗ Test failed: JjStopStringLiteralDfa_5_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[106/150] Processing: IsLabelChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 153 seconds (2 min 33 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsLabelChar_BranchCov
+  ✗ Test failed: IsLabelChar_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[107/150] Processing: GetPokedexNumber
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 84 seconds (1 min 24 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetPokedexNumber_BranchCov
+  ✗ Test failed: GetPokedexNumber_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[108/150] Processing: Convert1
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 116 seconds (1 min 56 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: Convert1_BranchCov
+  ✗ Test failed: Convert1_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[109/150] Processing: IsBidiCcsid
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 83 seconds (1 min 23 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsBidiCcsid_BranchCov
+  ✗ Test failed: IsBidiCcsid_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[110/150] Processing: GetChar
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 171 seconds (2 min 51 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GetChar_BranchCov
+  ✗ Test failed: GetChar_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[111/150] Processing: GoesVulnerablePvE
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 89 seconds (1 min 29 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GoesVulnerablePvE_BranchCov
+  ✗ Test failed: GoesVulnerablePvE_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[112/150] Processing: IsValidCcsid
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 150 seconds (2 min 30 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsValidCcsid_BranchCov
+  ✗ Test failed: IsValidCcsid_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[113/150] Processing: IsIdeographic
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 121 seconds (2 min 1 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IsIdeographic_BranchCov
+  ✗ Test failed: IsIdeographic_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[114/150] Processing: ScoreOrbitCorrection
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 78 seconds (1 min 18 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ScoreOrbitCorrection_BranchCov
+  ✗ Test failed: ScoreOrbitCorrection_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[115/150] Processing: TrackPrimeResidue
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 171 seconds (2 min 51 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: TrackPrimeResidue_BranchCov
+  ✗ Test failed: TrackPrimeResidue_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[116/150] Processing: ReduceChecksumPulse
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 85 seconds (1 min 25 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ReduceChecksumPulse_BranchCov
+  ✗ Test failed: ReduceChecksumPulse_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[117/150] Processing: EstimateTriangleLoad
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 71 seconds (1 min 11 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: EstimateTriangleLoad_BranchCov
+  ✗ Test failed: EstimateTriangleLoad_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[118/150] Processing: ValidateLeapAge
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 137 seconds (2 min 17 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ValidateLeapAge_BranchCov
+  ✗ Test failed: ValidateLeapAge_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[119/150] Processing: BalanceBinarySignal
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 157 seconds (2 min 37 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: BalanceBinarySignal_BranchCov
+  ✗ Test failed: BalanceBinarySignal_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[120/150] Processing: AnalyzeThermalDrift
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 67 seconds (1 min 7 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: AnalyzeThermalDrift_BranchCov
+  ✗ Test failed: AnalyzeThermalDrift_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[121/150] Processing: EvaluateFuelBlend
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 110 seconds (1 min 50 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: EvaluateFuelBlend_BranchCov
+  ✗ Test failed: EvaluateFuelBlend_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[122/150] Processing: NormalizeRomanLedger
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 191 seconds (3 min 11 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: NormalizeRomanLedger_BranchCov
+  ✗ Test failed: NormalizeRomanLedger_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[123/150] Processing: RegulateBatteryDrain
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 73 seconds (1 min 13 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: RegulateBatteryDrain_BranchCov
+  ✗ Test failed: RegulateBatteryDrain_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[124/150] Processing: ResolveHumidityBand
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 189 seconds (3 min 9 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ResolveHumidityBand_BranchCov
+  ✗ Test failed: ResolveHumidityBand_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[125/150] Processing: EstimateSignalFade
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 167 seconds (2 min 47 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: EstimateSignalFade_BranchCov
+  ✗ Test failed: EstimateSignalFade_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[126/150] Processing: ScoreElevationGrade
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 117 seconds (1 min 57 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ScoreElevationGrade_BranchCov
+  ✗ Test failed: ScoreElevationGrade_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[127/150] Processing: NormalizeNauticalSpeed
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 70 seconds (1 min 10 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: NormalizeNauticalSpeed_BranchCov
+  ✗ Test failed: NormalizeNauticalSpeed_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[128/150] Processing: ReduceAcousticEcho
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 109 seconds (1 min 49 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ReduceAcousticEcho_BranchCov
+  ✗ Test failed: ReduceAcousticEcho_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[129/150] Processing: MixTaxBracket
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 156 seconds (2 min 36 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: MixTaxBracket_BranchCov
+  ✗ Test failed: MixTaxBracket_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[130/150] Processing: ClassifyAsciiWindow
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 160 seconds (2 min 40 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ClassifyAsciiWindow_BranchCov
+  ✗ Test failed: ClassifyAsciiWindow_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[131/150] Processing: ForecastPacketLoss
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 59 seconds (0 min 59 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ForecastPacketLoss_BranchCov
+  ✗ Test failed: ForecastPacketLoss_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[132/150] Processing: IndexCropIrrigation
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 142 seconds (2 min 22 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: IndexCropIrrigation_BranchCov
+  ✗ Test failed: IndexCropIrrigation_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[133/150] Processing: TuneRiverFlow
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 154 seconds (2 min 34 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: TuneRiverFlow_BranchCov
+  ✗ Test failed: TuneRiverFlow_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[134/150] Processing: FilterTorqueRipple
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 50 seconds (0 min 50 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: FilterTorqueRipple_BranchCov
+  ✗ Test failed: FilterTorqueRipple_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[135/150] Processing: PredictVoltageSag
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 145 seconds (2 min 25 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: PredictVoltageSag_BranchCov
+  ✗ Test failed: PredictVoltageSag_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[136/150] Processing: CalibrateBrakeBias
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 54 seconds (0 min 54 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: CalibrateBrakeBias_BranchCov
+  ✗ Test failed: CalibrateBrakeBias_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[137/150] Processing: GuardDosageWindow
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 120 seconds (2 min 0 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: GuardDosageWindow_BranchCov
+  ✗ Test failed: GuardDosageWindow_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[138/150] Processing: AuditPressureValve
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 178 seconds (2 min 58 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: AuditPressureValve_BranchCov
+  ✗ Test failed: AuditPressureValve_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[139/150] Processing: ClassifyLatencyBurst
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 195 seconds (3 min 15 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ClassifyLatencyBurst_BranchCov
+  ✗ Test failed: ClassifyLatencyBurst_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[140/150] Processing: MonitorAltitudeCabin
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 82 seconds (1 min 22 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: MonitorAltitudeCabin_BranchCov
+  ✗ Test failed: MonitorAltitudeCabin_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[141/150] Processing: WeighTransitDelay
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 158 seconds (2 min 38 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: WeighTransitDelay_BranchCov
+  ✗ Test failed: WeighTransitDelay_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[142/150] Processing: AnalyzeCompressorDuty
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 101 seconds (1 min 41 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: AnalyzeCompressorDuty_BranchCov
+  ✗ Test failed: AnalyzeCompressorDuty_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[143/150] Processing: ResolveInvoicePenalty
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 174 seconds (2 min 54 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ResolveInvoicePenalty_BranchCov
+  ✗ Test failed: ResolveInvoicePenalty_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[144/150] Processing: MapBridgeOscillation
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 136 seconds (2 min 16 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: MapBridgeOscillation_BranchCov
+  ✗ Test failed: MapBridgeOscillation_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[145/150] Processing: JudgeRotorBalance
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 156 seconds (2 min 36 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: JudgeRotorBalance_BranchCov
+  ✗ Test failed: JudgeRotorBalance_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[146/150] Processing: NormalizeRadarSweep
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 60 seconds (1 min 0 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: NormalizeRadarSweep_BranchCov
+  ✗ Test failed: NormalizeRadarSweep_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[147/150] Processing: CoordinateHarborTide
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 80 seconds (1 min 20 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: CoordinateHarborTide_BranchCov
+  ✗ Test failed: CoordinateHarborTide_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[148/150] Processing: ScoreSolarPanelTilt
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 161 seconds (2 min 41 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: ScoreSolarPanelTilt_BranchCov
+  ✗ Test failed: ScoreSolarPanelTilt_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[149/150] Processing: MeterDesalinationSalt
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 113 seconds (1 min 53 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: MeterDesalinationSalt_BranchCov
+  ✗ Test failed: MeterDesalinationSalt_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+============================================================
+[150/150] Processing: PlanWarehouseHeat
+============================================================
+
+  [STEP 1] Generating Branch Coverage test with LLM...
+    Waiting 192 seconds (3 min 12 sec)...
+    ✓ Branch Coverage test generated.
+
+  [STEP 2] Running Branch Coverage test...
+  Running test: PlanWarehouseHeat_BranchCov
+  ✗ Test failed: PlanWarehouseHeat_BranchCov
+  Error snippet: ...aracter literal
+[[1;31mERROR[m] -> [1m[Help 1][m
+[[1;31mERROR[m] 
+[[1;31mERROR[m] To see the full stack trace of the errors, re-run Maven with the [1m-e[m switch.
+[[1;31mERROR[m] Re-run Maven using the [1m-X[m switch to enable full debug logging.
+[[1;31mERROR[m] 
+[[1;31mERROR[m] For more information about the errors and possible solutions, please read the following articles:
+[[1;31mERROR[m] [1m[Help 1][m http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+
+  ⚠️  Jacoco report not found
+    ✗ Branch Coverage test failed: Compilation Error
+
+======================================================================
+PIPELINE RESULTS SUMMARY
+======================================================================
+
+Branch Coverage Tests: 81/150 passed (54.0%)
+Average Branch Coverage: 95.47%
+
+✓ Detailed results saved to: coverage_results.csv
+✓ Summary results saved to: coverage_summary.csv
+----------------------------------------
+Pipeline finished at: Sun Mar  8 01:11:56 UTC 2026
+Exit code: 0
+
+[1;33mGit push is enabled, uploading results...[0m
+[0;32m============================================[0m
+[0;32m  Git Push - Results Upload[0m
+[0;32m============================================[0m
+[1;33mConfiguring git...[0m
+[1;33mCloning repository...[0m
+[1;33mBranch main not found, cloning default branch...[0m
+Cloning into 'repo'...
+warning: You appear to have cloned an empty repository.
+[1;33mCopying CSV files...[0m
+  [0;32m✓[0m Copied coverage_results.csv
+  [0;32m✓[0m Copied coverage_summary.csv
+[1;33mCopying log files...[0m
+  [0;32m✓[0m Copied pipeline_20260307_180023.log
